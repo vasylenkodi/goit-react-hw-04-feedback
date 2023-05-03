@@ -1,0 +1,19 @@
+.feedbackButtons__list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.feedbackButtons__listItem {
+
+}
+
+.feedbackButton {
+    font-size: 18px;
+    color: azure;
+    padding: 10px 15px;
+    border-radius: 25%;
+    border: none;
+    background-color: seagreen;
+}
